@@ -1,0 +1,60 @@
+/users
+	-userID
+		-email			
+		-name		
+		-password	
+		-gender		
+		-numberphone	
+		-address	
+		-dayOfBirth
+		-interest
+
+/categories
+	-categoryID
+		-categoryName
+		-ratingStar
+	
+/posts
+	-postID
+		-userID
+		-categoryID
+		-imageUrl
+		-status
+		-comment
+		-likes
+		-tags
+		-location
+		-isFavourite
+
+/hotels
+	-hotelID
+		-hotelName
+		-hotelAddress
+		-hotelDescription
+		-hotelImage
+		-hotelRating
+		-hotelAmenities
+		-rooms
+			-roomID
+				-roomType
+				-roomPrice
+				-roomAvailability
+				-roomDescription
+
+/reservations
+	-reservationID
+		-userID
+		-hotelID
+		-roomID
+		-checkInDate
+		-checkOutDate
+		-numberOfGuests
+		-specialRequests
+		-reservationStatus
+
+/payments
+	-paymentID
+		-reservationID
+		-amount
+		-paymentStatus
+		-paymentDate

@@ -1,0 +1,17 @@
+Auth Functions
+	-Login
+	-Register
+	-ChangePassword
+	-ForgotPassword
+	-Logout	
+	-GoogleLogin
+	-FaceBookLogin
+	-UpdateProfile
+Home Functions
+	-GetAllListPost
+Sreach functions
+	-GetCategoryByRaitingStar
+	-LoadHotelByRaitingStar
+	-SearchByNameHotel
+	-
+	
