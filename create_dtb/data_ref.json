@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Sunrise Premium Resort Hội An",
+        "address": "Au Co Road, Cua Dai Beach, Hoi An, Quang Nam",
+        "phone": "+84 235 393 7777",
+        "stars": 5,
+        "services": [
+            "Beachfront",
+            "Swimming Pool",
+            "Spa",
+            "Restaurant"
+        ],
+        "room": [
+            {
+                "type": "Single Room",
+                "description": "Spacious and comfortable room with a private balcony overlooking the ocean.",
+                "price": 200,
+                "adutl": 2,
+                "children": true,
+                "image": [
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-1.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-2.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-3.jpg"
+                ],
+                "availability": true
+            },
+            {
+                "type": "Double Room",
+                "description": "Spacious and comfortable room with a private balcony overlooking the ocean.",
+                "price": 200,
+                "adutl": 2,
+                "children": true,
+                "image": [
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-1.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-2.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-3.jpg"
+                ],
+                "availability": true
+            },
+            {
+                "type": "Double Room",
+                "description": "Spacious and comfortable room with a private balcony overlooking the ocean.",
+                "price": 200,
+                "adutl": 2,
+                "children": true,
+                "image": [
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-1.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-2.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-3.jpg"
+                ],
+                "availability": true
+            },
+            {
+                "type": "Double Room",
+                "description": "Spacious and comfortable room with a private balcony overlooking the ocean.",
+                "price": 200,
+                "adutl": 2,
+                "children": true,
+                "image": [
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-1.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-2.jpg",
+                    "https://www.sunrisehoian.vn/wp-content/uploads/2019/07/Single-Room-3.jpg"
+                ],
+                "availability": true
+            }
+        ],
+        "description": "Sunrise Premium Resort Hội An is a beachfront paradise in Hoi An, perfect for relaxation and indulgence."
+    }
+]
